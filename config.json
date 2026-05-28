@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterualidate",
+        "uuid": 36387711,
+        "checksum": "o53l6h"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
